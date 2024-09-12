@@ -1,7 +1,7 @@
 title: "Khang"
 description: "Test"
 baseurl: ""
-url: ""
+url: "https://kuhekin.github.io/mycv"
 
 exclude:
   - demo/
